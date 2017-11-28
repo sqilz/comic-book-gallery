@@ -62,6 +62,10 @@ namespace ComicBookGallery.Data
         {
             throw new NotImplementedException();
         }
+        public ComicBook[] GetComicBooks()
+        {
+            return _comicBooks;
+        }
 
         public ComicBook GetComicBook(int id)
         {
