@@ -1,3 +1,3 @@
 # comic-book-gallery
-<h1>You can view this website here</h1>
+<h2>Website made by following the ASP.NET MVC tutorial on http://teamtreehouse.com</h2>
 http://comicbookgallery20171128050344.azurewebsites.net/
